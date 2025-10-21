@@ -52,4 +52,5 @@ Se quiser trocar ideias, colaborar em projetos ou tiver alguma dúvida, <a href=
 
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
-![Douglas Pimenta GitHub Stats](https://github-readme-stats.vercel.app/api?username=DouglasRamosP&show_icons=true&theme=dracula)
+![Douglas Pimenta GitHub Stats](https://github-readme-stats.vercel.app/api?username=DouglasRamosP&show_icons=true&theme=dracula&v=2)
+
